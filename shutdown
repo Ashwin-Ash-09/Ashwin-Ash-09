@@ -1,0 +1,1 @@
+shutdown m\\workspace1 /r /f /c "This computer will restart in 60 seconds. Please save all work." /t 60.
