@@ -12,15 +12,8 @@ I am an enthusiastic and inquisitive person with a foundation in technology and 
 
 ## 🎓 Education
 
-**Rajiv Gandhi College of Engineering and Technology, Puducherry**  
 `B.Tech in Computer Science and Engineering` (2021 - 2025)  
 **Current CGPA:** 7.76 / 10
-
-**Presidency Higher Secondary School, Puducherry**  
-`HSC` (2019 - 2021) – 84.5%
-
-**Sri Vijayanjali Vidhyalaya Higher Secondary School, Puducherry**  
-`SSLC` (2009 - 2019) – 81.8%
 
 ---
 
