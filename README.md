@@ -1,16 +1,76 @@
-## Hi there 👋
+# 💻 Ashwin Angappan
 
-<!--
-**Ashwin-Ash-09/Ashwin-Ash-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science & Engineering | 💡 Technology Enthusiast | 🛠️ Hardware Troubleshooting & Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 About Me
+
+I am an enthusiastic and inquisitive person with a foundation in technology and a deep interest in software engineering, hardware systems, and finding solutions to challenges. I take pleasure in discovering new tools and technologies, developing effective solutions, and consistently enhancing my abilities. I value collaboration, flexibility, and hands-on learning. My objective is to make valuable contributions to significant projects and advance as a comprehensive professional in the technology sector.
+
+---
+
+## 🎓 Education
+
+**Rajiv Gandhi College of Engineering and Technology, Puducherry**  
+`B.Tech in Computer Science and Engineering` (2021 - 2025)  
+**Current CGPA:** 7.76 / 10
+
+**Presidency Higher Secondary School, Puducherry**  
+`HSC` (2019 - 2021) – 84.5%
+
+**Sri Vijayanjali Vidhyalaya Higher Secondary School, Puducherry**  
+`SSLC` (2009 - 2019) – 81.8%
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, Python, C, SQL, JavaScript
+- **Web:** HTML / CSS
+- **Databases:** MySQL
+- **Concepts:** Data Structures, Object-Oriented Programming, Networking Basics
+- **Tools:** Git, GitHub
+- **Other:** Hardware Troubleshooting
+---
+
+## 🧠 Soft Skills
+
+- Adaptability & Flexibility  
+- Fast Learning & Problem Solving  
+- Teamwork & Communication  
+
+---
+
+## 📜 Certifications
+
+- Java (Basic) – HackerRank  
+- Networking Basics – Cisco  
+- MySQL Essential Training – LinkedIn Learning  
+- Testing of Electronic Devices in Hardware – Raja Electronics Institute
+
+---
+
+## 🏆 Achievements & Workshops
+
+- 🥇 **First Prize**, National-level Memathon Contest – Christ College of Engineering and Technology (10-03-2023)  
+- 🔧 Workshop on **Testing of Electronic Devices in Hardware** – Raja Electronics Institute (08-05-2023)
+
+---
+
+## 📚 Publications & Conferences
+
+- **[Fake Currency Detection Using Convolutional Neural Network](https://doi.org/10.22214/ijraset.2025.70710)** – IJRASET, Vol. 13, Issue V, May 2025  
+- **Systematic Review of Indian Counterfeit Currency Detection Using CNN** – Presented at ICASTM-II 2025, SXCMT Patna & Global Conference Hub
+
+---
+
+## 🌐 Contact Me
+
+- 📧 Email: [ashwinangappan7799@gmail.com](mailto:ashwinangappan7799@gmail.com)  
+- 🔗 [LinkedIn: ashwin-angappan](https://www.linkedin.com/in/ashwin-angappan)  
+- 💻 [GitHub: Ashwin-Ash-09](https://github.com/Ashwin-Ash-09)
+
+---
+
+*“Code, Create, Collaborate.”*
