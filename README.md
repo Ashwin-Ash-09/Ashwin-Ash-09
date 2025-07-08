@@ -19,9 +19,9 @@ I am an enthusiastic and inquisitive person with a foundation in technology and 
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, Python, C, SQL, JavaScript
+- **Languages:** Java, Python, C, SQL, JavaScript, Spring Boot, Spring Data JPA, Spring Framework
 - **Web:** HTML / CSS
-- **Databases:** MySQL
+- **Databases:** MySQL, PostgreSQL
 - **Concepts:** Data Structures, Object-Oriented Programming, Networking Basics
 - **Tools:** Git, GitHub
 - **Other:** Hardware Troubleshooting
