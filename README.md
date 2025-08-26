@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I’m an tech enthusiast pursuing my B.Tech in Computer Science & Engineering (2021–2025), with a current CGPA of 7.76/10. I enjoy full-stack software development, always learning and collaborating to build impactful solutions.
+I’m an tech enthusiast and software engineer. I enjoy full-stack software development, always learning and collaborating to build impactful solutions.
 
 ---
 
@@ -16,6 +16,8 @@ I’m an tech enthusiast pursuing my B.Tech in Computer Science & Engineering (2
     - C Programing
     - Spring Framework
     - React Js
+    - Node.Js
+    - Express.Js
     - Python
 
 - **Web Development:** 
@@ -54,6 +56,7 @@ I’m an tech enthusiast pursuing my B.Tech in Computer Science & Engineering (2
 ##  Certifications
 - Java (Basic) – HackerRank 
 - [[NEW] Master Spring Boot 3 & Spring Framework 6 with Java - UDEMY](https://www.udemy.com/certificate/UC-e7cdd97f-584f-4731-beee-8b66ec8be40e/)
+- [Complete web development course](https://www.udemy.com/certificate/UC-d6ba46e9-669b-4712-965b-957df69d9bbe/)
   
 - Networking Basics – Cisco  
 - MySQL Essential Training – LinkedIn Learning  
