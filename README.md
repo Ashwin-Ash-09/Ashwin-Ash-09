@@ -76,12 +76,12 @@ I’m an tech enthusiast and software engineer. I enjoy full-stack software deve
 ---
 
 ##  Selected Projects
-- `recipeapi` (Java) – [Backend for recipe application]
 
-- `recipeui` (React Js) – [Frontend companion for recipe app]  
-
-- `empManageQuarkus` (Java) – [Employee management system using Quarkus]
-- `library-management-backend` (Java) – [REST API for library system with Spring Boot & clean architecture]
+- **`surprise-wish`**  (React Js) – [An interactive and customizable web application to create a memorable surprise for your loved ones.]
+- **`library-management-backend`** (Java) – [REST API for library system with Spring Boot & clean architecture]
+- **`empManageQuarkus`** (Java) – [Employee management system using Quarkus]
+- **`recipeapi`** (Java) – [Backend for recipe application]
+- **`recipeui`** (React Js) – [Frontend companion for recipe app]  
 
 ---
 
