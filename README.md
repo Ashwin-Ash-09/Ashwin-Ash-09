@@ -69,14 +69,6 @@ const ashwin = {
 </div>
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Surprise Wish](https://github-readme-stats.vercel.app/api/pin/?username=Ashwin-Ash-09&repo=surprise-wish&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ashwin-Ash-09/surprise-wish)
-[![HIMYM Quotes API](https://github-readme-stats.vercel.app/api/pin/?username=Ashwin-Ash-09&repo=himym-quotes-api&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ashwin-Ash-09/himym-quotes-api)
-</div>
-
 
 ## 🎓 Certifications & Achievements
 
