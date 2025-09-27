@@ -1,5 +1,3 @@
-# 🚀 Ultimate GitHub Profile README for Ashwin Angappan
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashwin%20Angappan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code,%20Create,%20Collaborate&descAlignY=60&descSize=18" />
 </div>
